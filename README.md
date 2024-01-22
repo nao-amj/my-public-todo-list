@@ -8,5 +8,8 @@ Threads is a chronological information, and the purpose is to manage tasks toget
 
 ---
 
-Kanban:
+- Kanban:
 https://github.com/users/nao-anm-msc-jpn/projects/4
+
+- Issues:
+https://github.com/nao-anm-msc-jpn/my-public-todo-list/issues
