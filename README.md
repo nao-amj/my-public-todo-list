@@ -13,3 +13,6 @@ https://github.com/users/nao-anm-msc-jpn/projects/4
 
 - Issues:
 https://github.com/nao-anm-msc-jpn/my-public-todo-list/issues
+
+- Wiki: 
+https://github.com/nao-anm-msc-jpn/my-public-todo-list/wiki
